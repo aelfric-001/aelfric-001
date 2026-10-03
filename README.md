@@ -1,4 +1,4 @@
-## Hi there - its Aelfric this side👋
+## Hi there - its Arthur Campbell this side👋
 
 <!--
 **aelfric-001/aelfric-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
